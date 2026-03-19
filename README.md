@@ -18,7 +18,7 @@
 
 1. 启动 Obsidian
 2. 选择“Open folder as vault”
-3. 打开 `D:\Project\Archero2_QA\第二大脑`
+3. 打开 `第二大脑`
 
 ## 推荐下一步
 
